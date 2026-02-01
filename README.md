@@ -6,5 +6,5 @@ Os arquivos estão divididos em duas grandes pastas, identificadas pelos nomes R
 
 A pasta Scripts contém códigos escritos na linguagem R para carregar, processar e transformar os dados disponibilizados, em formato numérico e codificado, para registros com informações mais compreensíveis, trocando números por palavras como "Admissão", "Desligamento", "São Paulo", "Superior Completo", "Estatutário", "Temporário", etc. O resultado final converte os dados tratados e limpos em um arquivo Excel filtrado e organizado.
 
-Os dados relativos aos vínculos trabalhista da ocupação de arqueólogos nos anos subsequentes podem ser consultados em
+Os dados relativos aos vínculos trabalhistas da ocupação de arqueólogos nos anos subsequentes podem ser consultados em
 https://github.com/machadotm/Novos_Dados_MTE_Arqueo
